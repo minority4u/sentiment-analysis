@@ -4,7 +4,7 @@ boto==2.46.1
 bs4==0.0.1
 bz2file==0.98
 cycler==0.10.0
-Django==1.11.1
+Django==2.2.24
 gensim==2.0.0
 image==1.5.5
 matplotlib==2.0.0
