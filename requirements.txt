@@ -9,7 +9,7 @@ gensim==2.0.0
 image==1.5.5
 matplotlib==2.0.0
 myapp==0.1.dev0
-nltk==3.2.4
+nltk==3.6.3
 numpy==1.12.1
 olefile==0.44
 packaging==16.8
